@@ -1,0 +1,1201 @@
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_001.bmp
+97 98 367 537
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_002.bmp
+101 88 333 551
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_003.bmp
+84 80 369 559
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_004.bmp
+82 136 229 495
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_005.bmp
+39 51 341 588
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_006.bmp
+39 72 396 563
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_007.bmp
+119 107 160 370
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_008.bmp
+139 121 199 449
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_009.bmp
+127 88 244 513
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_010.bmp
+173 157 185 415
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_011.bmp
+145 158 177 341
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_012.bmp
+192 196 122 278
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_013.bmp
+180 222 158 301
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_014.bmp
+139 120 210 446
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_015.bmp
+199 193 93 200
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_016.bmp
+85 68 309 564
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_017.bmp
+78 119 285 513
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_018.bmp
+25 77 379 560
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_019.bmp
+71 63 265 553
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_020.bmp
+85 119 255 515
+75 99 278 533
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_021.bmp
+76 86 279 548
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_022.bmp
+90 100 248 535
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_023.bmp
+85 57 294 567
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_024.bmp
+78 47 294 580
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_025.bmp
+88 100 244 529
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_026.bmp
+133 59 220 577
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_027.bmp
+67 39 261 588
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_028.bmp
+116 59 214 570
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_029.bmp
+62 84 204 512
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_030.bmp
+84 58 233 555
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_031.bmp
+86 42 298 587
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_032.bmp
+122 56 225 580
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_033.bmp
+109 116 232 519
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_034.bmp
+93 55 236 569
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_035.bmp
+60 40 318 590
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_036.bmp
+179 82 203 500
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_037.bmp
+211 229 141 305
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_038.bmp
+204 200 154 329
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_039.bmp
+178 226 112 188
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_040.bmp
+145 142 185 353
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_041.bmp
+68 79 271 551
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_042.bmp
+78 75 365 550
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_043.bmp
+55 129 361 500
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_044.bmp
+270 114 140 291
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_050.bmp
+314 95 169 323
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_051.bmp
+259 104 167 332
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_052.bmp
+259 108 133 332
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_053.bmp
+260 119 162 305
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_055.bmp
+253 143 156 326
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_056.bmp
+274 65 170 369
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_058.bmp
+301 123 124 259
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_059.bmp
+284 119 132 298
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_060.bmp
+284 210 64 139
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_061.bmp
+204 166 87 208
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_062.bmp
+392 158 116 268
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_063.bmp
+295 173 133 234
+302 169 125 250
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_064.bmp
+224 128 149 346
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_065.bmp
+237 118 139 343
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_066.bmp
+288 103 166 372
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_067.bmp
+264 70 168 408
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_069.bmp
+239 94 176 385
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_070.bmp
+198 138 132 282
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_071.bmp
+183 69 150 367
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_073.bmp
+293 201 117 218
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_075.bmp
+255 176 85 178
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_076.bmp
+241 129 149 311
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_078.bmp
+305 82 149 395
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_085.bmp
+123 175 114 324
+240 143 142 415
+221 146 167 414
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_086.bmp
+218 148 121 336
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_087.bmp
+242 188 105 362
+236 181 122 371
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_088.bmp
+149 121 173 444
+352 137 57 195
+405 149 64 175
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_089.bmp
+169 168 158 319
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_090.bmp
+203 163 143 369
+307 190 65 131
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_091.bmp
+179 180 134 313
+103 187 59 98
+14 187 51 100
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_092.bmp
+211 120 130 413
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_093.bmp
+104 127 128 397
+238 134 172 405
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_094.bmp
+179 126 149 439
+168 116 182 451
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_095.bmp
+143 94 210 489
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_096.bmp
+158 89 219 446
+330 63 67 192
+368 36 85 236
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_097.bmp
+257 86 141 488
+95 135 143 441
+2 109 123 317
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_098.bmp
+276 91 185 449
+134 142 140 374
+43 122 106 383
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_099.bmp
+184 124 161 432
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_100.bmp
+133 210 122 274
+306 227 112 242
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_101.bmp
+180 179 125 303
+0 207 106 317
+370 220 86 204
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_102.bmp
+152 57 179 407
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_103.bmp
+205 218 76 159
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_104.bmp
+147 198 139 317
+265 205 128 303
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_105.bmp
+231 123 133 386
+96 113 153 380
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_106.bmp
+215 267 72 138
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_107.bmp
+208 107 207 505
+54 181 158 420
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_108.bmp
+120 96 254 543
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_109.bmp
+130 104 257 515
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_111.bmp
+160 129 175 455
+22 145 121 301
+97 136 76 247
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_112.bmp
+9 94 154 508
+280 98 148 532
+180 130 125 443
+109 115 86 284
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_114.bmp
+33 35 213 600
+230 76 206 559
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_115.bmp
+250 126 143 420
+151 93 116 434
+38 80 142 501
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_116.bmp
+117 72 246 530
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_117.bmp
+168 160 191 410
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_118.bmp
+183 204 83 186
+130 213 63 173
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_119.bmp
+159 165 154 343
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_120.bmp
+146 182 123 277
+234 163 134 279
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_121.bmp
+178 134 151 338
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_122.bmp
+200 226 101 238
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_123.bmp
+115 191 178 410
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_124.bmp
+241 71 90 181
+33 320 218 314
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_126.bmp
+184 98 164 418
+111 154 73 144
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_127.bmp
+238 111 103 296
+317 69 138 325
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_128.bmp
+184 104 78 218
+355 144 76 172
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_129.bmp
+313 158 83 201
+163 205 77 152
+257 170 67 198
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_130.bmp
+290 88 118 319
+191 151 129 205
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_131.bmp
+212 172 83 211
+299 174 74 191
+375 167 66 179
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_132.bmp
+451 182 66 148
+460 176 57 146
+379 178 61 155
+292 184 55 145
+202 186 46 140
+235 179 54 135
+96 207 59 126
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_133.bmp
+92 229 65 147
+234 175 79 197
+327 151 84 220
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_134.bmp
+223 115 122 329
+323 110 137 336
+486 95 38 106
+417 86 47 108
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_135.bmp
+173 144 93 254
+251 151 76 243
+311 136 88 257
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_136.bmp
+224 144 98 251
+312 128 103 257
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_137.bmp
+111 66 71 210
+156 101 61 204
+211 95 79 210
+312 91 59 211
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_138.bmp
+178 66 129 309
+333 61 109 303
+474 40 103 327
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_139.bmp
+50 123 91 251
+162 146 94 288
+258 119 83 299
+414 112 86 236
+497 129 72 214
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_140.bmp
+297 83 105 308
+186 73 107 301
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_141.bmp
+251 122 112 237
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_142.bmp
+253 9 153 401
+122 197 94 195
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_143.bmp
+104 76 105 296
+228 78 83 283
+302 60 85 316
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_144.bmp
+164 48 137 420
+292 36 141 435
+556 56 45 111
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_147.bmp
+150 97 123 327
+305 108 142 287
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_156.bmp
+323 194 114 204
+240 184 97 220
+317 13 76 155
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_161.bmp
+272 99 120 334
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_162.bmp
+313 157 109 261
+200 148 101 266
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_163.bmp
+242 192 145 271
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_164.bmp
+244 148 107 245
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_165.bmp
+275 209 75 157
+254 173 35 74
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_166.bmp
+246 157 91 213
+337 159 82 213
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_167.bmp
+312 165 79 203
+258 174 66 181
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_168.bmp
+314 197 55 128
+244 206 53 119
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_169.bmp
+277 133 114 270
+173 123 106 280
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_170.bmp
+208 150 95 244
+427 161 91 217
+299 161 52 112
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_171.bmp
+292 167 101 246
+216 183 69 214
+204 184 89 215
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_172.bmp
+392 189 72 189
+292 187 79 188
+231 182 66 143
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_173.bmp
+283 134 103 268
+386 135 103 283
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_174.bmp
+178 182 80 186
+314 101 111 269
+418 218 87 153
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_175.bmp
+340 135 81 163
+178 150 77 173
+102 141 76 185
+458 148 65 150
+544 133 80 195
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_176.bmp
+236 119 112 299
+343 106 136 316
+204 141 55 141
+157 149 48 136
+69 136 52 127
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_177.bmp
+235 128 84 271
+331 138 98 248
+521 148 56 140
+39 144 40 81
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_178.bmp
+154 135 124 282
+371 152 95 241
+454 151 90 264
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_179.bmp
+278 143 117 275
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_180.bmp
+283 196 97 217
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_181.bmp
+266 174 83 204
+369 169 98 208
+88 144 135 325
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_189.bmp
+257 113 117 310
+355 132 92 271
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_190.bmp
+122 121 100 236
+245 139 93 219
+366 147 84 267
+431 116 101 248
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_191.bmp
+476 174 87 192
+392 177 86 209
+324 179 76 174
+178 172 52 130
+216 170 54 124
+263 196 42 100
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_193.bmp
+179 148 105 282
+328 163 87 218
+432 185 48 106
+563 162 51 115
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_195.bmp
+320 169 86 206
+259 187 69 192
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_196.bmp
+201 94 92 295
+333 77 115 318
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_198.bmp
+318 104 114 325
+173 92 139 346
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_210.bmp
+250 150 81 254
+325 146 109 258
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_211.bmp
+395 159 82 252
+186 132 85 181
+212 36 91 147
+218 40 80 140
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_212.bmp
+299 170 73 182
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_213.bmp
+277 201 132 154
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_216.bmp
+345 129 98 326
+221 136 99 257
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_217.bmp
+247 213 77 221
+359 190 76 203
+430 187 76 197
+155 201 69 169
+43 193 73 191
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_218.bmp
+216 98 123 374
+328 124 94 267
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_219.bmp
+376 127 90 300
+304 188 67 232
+191 144 95 149
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_220.bmp
+357 213 69 163
+313 110 57 157
+234 112 56 157
+205 164 37 89
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_222.bmp
+159 79 113 375
+320 81 68 164
+399 72 123 375
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_223.bmp
+202 53 125 376
+361 61 122 337
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_224.bmp
+240 112 88 326
+316 146 70 243
+383 120 93 282
+479 169 72 217
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_225.bmp
+201 65 149 367
+392 71 136 371
+59 22 127 337
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_227.bmp
+56 156 160 318
+238 184 90 195
+299 177 152 296
+511 212 66 168
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_228.bmp
+292 103 102 333
+223 103 94 296
+384 113 75 255
+131 98 55 116
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_230.bmp
+256 123 117 314
+403 132 126 315
+149 136 73 187
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_232.bmp
+203 19 157 427
+175 14 191 437
+358 69 132 383
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_233.bmp
+164 160 115 251
+394 161 128 240
+245 165 47 80
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_234.bmp
+327 165 90 200
+237 172 73 187
+109 171 73 158
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_235.bmp
+203 107 121 334
+358 81 125 345
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_238.bmp
+179 117 103 292
+339 97 124 323
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_240.bmp
+209 93 123 361
+310 76 155 376
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_241.bmp
+351 93 118 331
+209 88 123 340
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_242.bmp
+225 86 141 359
+359 51 129 391
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_245.bmp
+113 56 140 386
+239 170 92 226
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_246.bmp
+286 77 113 373
+185 26 117 407
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_247.bmp
+251 146 72 239
+313 146 89 237
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_248.bmp
+254 116 127 317
+380 167 110 269
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_249.bmp
+205 180 91 243
+281 174 84 247
+405 162 81 252
+465 162 86 253
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_251.bmp
+199 72 137 371
+326 75 132 366
+463 86 68 186
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_254.bmp
+381 185 79 191
+279 123 80 243
+209 102 90 286
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_255.bmp
+397 159 101 220
+222 145 90 245
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_256.bmp
+334 108 114 324
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_257.bmp
+259 183 80 181
+331 182 91 178
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_258.bmp
+370 176 58 152
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_259.bmp
+328 170 73 171
+270 169 57 170
+182 180 50 156
+231 180 48 153
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_262.bmp
+283 55 174 411
+104 67 154 402
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_265.bmp
+63 73 124 323
+289 190 89 195
+392 163 88 231
+483 173 100 226
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_266.bmp
+88 66 145 399
+385 64 169 411
+539 91 82 218
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_267.bmp
+364 71 159 405
+243 84 131 390
+125 66 120 402
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_270.bmp
+337 90 134 380
+207 64 129 403
+67 47 165 426
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_271.bmp
+127 77 176 372
+292 58 192 365
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_272.bmp
+37 57 145 410
+161 58 134 401
+294 48 149 422
+438 41 157 401
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_274.bmp
+450 120 136 349
+278 144 96 223
+386 138 38 75
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_275.bmp
+267 180 88 217
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_278.bmp
+264 108 164 365
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_279.bmp
+464 201 65 162
+265 229 64 153
+118 183 62 118
+192 179 62 150
+284 357 76 122
+109 50 53 87
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_280.bmp
+267 159 88 247
+331 146 83 186
+452 160 55 142
+493 156 70 140
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_282.bmp
+257 138 107 289
+86 140 51 92
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_283.bmp
+304 132 118 331
+393 115 40 76
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_284.bmp
+255 146 114 224
+562 123 43 100
+159 131 46 80
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_285.bmp
+259 168 98 196
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_290.bmp
+300 153 120 279
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_292.bmp
+283 167 102 262
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_293.bmp
+243 104 134 295
+160 106 76 153
+117 114 51 149
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_294.bmp
+273 171 93 244
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_297.bmp
+318 158 81 263
+268 161 81 230
+181 151 96 249
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_298.bmp
+244 149 95 279
+343 219 68 188
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_299.bmp
+317 213 80 225
+199 110 103 357
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_300.bmp
+241 106 131 297
+334 68 47 107
+386 87 39 83
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_301.bmp
+260 153 99 262
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_302.bmp
+199 161 123 302
+341 165 100 280
+346 153 101 293
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_309.bmp
+178 106 108 302
+269 110 83 244
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_310.bmp
+284 143 69 142
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_312.bmp
+296 166 103 241
+7 177 79 203
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_314.bmp
+172 126 92 272
+481 112 120 334
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_315.bmp
+328 195 90 201
+481 192 44 129
+518 181 58 147
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_317.bmp
+185 160 116 237
+327 155 86 227
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_318.bmp
+214 104 93 267
+299 121 77 223
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_321.bmp
+428 168 52 114
+379 167 45 109
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_323.bmp
+259 101 131 320
+123 75 140 340
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_324.bmp
+376 156 59 151
+428 160 65 157
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_327.bmp
+213 113 82 210
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_328.bmp
+92 225 47 125
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_329.bmp
+429 113 76 209
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_331.bmp
+149 70 170 397
+293 146 64 171
+390 143 55 131
+360 159 35 77
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_336.bmp
+285 129 93 249
+363 101 96 272
+121 133 35 88
+73 130 34 78
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_337.bmp
+305 180 88 213
+265 152 65 193
+187 144 73 209
+67 141 64 167
+136 167 55 144
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_340.bmp
+180 114 107 308
+283 119 134 300
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_343.bmp
+200 189 89 172
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_344.bmp
+375 186 128 283
+439 108 126 315
+62 74 109 293
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_346.bmp
+204 156 102 252
+322 172 79 233
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_354.bmp
+205 224 119 198
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_356.bmp
+160 114 146 472
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_357.bmp
+335 179 73 190
+398 198 70 187
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_358.bmp
+251 218 59 138
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_368.bmp
+319 148 92 237
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_376.bmp
+202 188 60 146
+270 195 69 136
+368 182 55 117
+136 199 33 81
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_388.bmp
+335 177 88 207
+205 180 62 170
+20 187 68 156
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_390.bmp
+192 154 77 242
+273 137 91 199
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_391.bmp
+279 206 102 166
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_406.bmp
+213 65 120 162
+103 238 166 165
+300 265 180 162
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_407.bmp
+209 170 119 130
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_410.bmp
+223 155 139 157
+355 184 140 158
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_414.bmp
+269 119 68 183
+480 109 51 115
+103 117 75 194
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_420.bmp
+275 202 60 174
+312 150 65 144
+248 162 53 136
+237 158 58 145
+I:\TestOpenCV\Images\PedestrainBenchmark\person_01\person_421.bmp
+299 304 51 106
+250 288 46 94
+298 250 46 62
+242 140 37 72
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_002.bmp
+266 191 47 102
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_003.bmp
+43 120 70 124
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_004.bmp
+178 97 46 89
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_005.bmp
+274 41 65 153
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_006.bmp
+292 74 53 134
+438 90 44 127
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_008.bmp
+192 30 114 312
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_011.bmp
+305 13 105 276
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_012.bmp
+235 32 64 169
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_013.bmp
+80 58 90 220
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_015.bmp
+204 47 67 174
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_016.bmp
+224 88 46 91
+177 81 49 95
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_018.bmp
+204 33 78 216
+132 28 77 224
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_019.bmp
+204 71 69 160
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_021.bmp
+85 31 52 128
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_027.bmp
+416 3 67 178
+511 1 75 189
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_029.bmp
+414 100 98 262
+390 102 115 262
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_031.bmp
+271 63 69 133
+196 57 50 137
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_032.bmp
+489 90 40 97
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_033.bmp
+338 89 93 235
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_034.bmp
+224 87 85 238
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_035.bmp
+111 59 73 163
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_041.bmp
+125 276 50 150
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_042.bmp
+158 184 71 215
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_048.bmp
+94 129 189 504
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_051.bmp
+125 101 138 385
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_052.bmp
+153 117 158 453
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_053.bmp
+164 81 166 522
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_054.bmp
+201 149 110 423
+37 234 50 95
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_055.bmp
+166 151 138 354
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_056.bmp
+197 193 104 285
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_057.bmp
+191 213 142 319
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_058.bmp
+160 113 177 463
+30 109 58 114
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_059.bmp
+207 191 77 209
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_062.bmp
+93 57 230 553
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_065.bmp
+112 104 214 532
+393 215 49 153
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_067.bmp
+93 54 270 584
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_069.bmp
+146 45 192 590
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_070.bmp
+91 30 209 605
+354 146 47 95
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_071.bmp
+126 55 197 582
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_072.bmp
+67 86 192 518
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_073.bmp
+110 46 177 593
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_074.bmp
+118 38 248 601
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_075.bmp
+146 45 191 591
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_076.bmp
+94 48 212 581
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_077.bmp
+89 47 289 592
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_078.bmp
+186 73 195 509
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_079.bmp
+221 233 122 305
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_080.bmp
+210 195 140 337
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_081.bmp
+158 147 154 342
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_085.bmp
+275 113 118 289
+16 149 56 136
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_089.bmp
+328 97 135 327
+82 108 43 91
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_090.bmp
+276 101 134 338
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_091.bmp
+274 107 102 335
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_092.bmp
+283 115 120 317
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_094.bmp
+267 138 128 334
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_095.bmp
+279 67 150 370
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_097.bmp
+309 125 100 260
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_098.bmp
+292 118 119 298
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_099.bmp
+285 211 61 141
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_100.bmp
+217 169 56 201
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_101.bmp
+404 154 99 270
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_102.bmp
+306 165 107 248
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_103.bmp
+239 123 133 347
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_104.bmp
+253 111 120 351
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_105.bmp
+302 96 148 381
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_106.bmp
+281 78 131 397
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_108.bmp
+261 99 143 372
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_109.bmp
+221 141 96 273
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_110.bmp
+211 70 119 358
+202 67 129 364
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_114.bmp
+265 178 71 179
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_115.bmp
+268 127 115 305
+254 128 131 308
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_124.bmp
+137 175 94 327
+254 150 122 404
+230 140 149 418
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_125.bmp
+227 142 105 348
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_127.bmp
+219 165 111 363
+313 194 52 127
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_128.bmp
+188 178 109 319
+114 188 45 99
+19 192 41 96
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_130.bmp
+269 133 129 405
+103 128 122 391
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_131.bmp
+178 123 155 439
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_132.bmp
+181 88 173 447
+167 90 184 447
+375 41 71 226
+337 65 52 188
+441 71 38 192
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_134.bmp
+287 89 155 445
+135 130 119 387
+50 126 105 376
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_136.bmp
+152 215 92 267
+321 229 90 238
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_137.bmp
+190 181 109 301
+373 220 80 202
+2 205 95 320
+346 201 44 147
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_138.bmp
+162 58 155 401
+36 98 67 179
+41 30 57 108
+90 34 63 177
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_140.bmp
+227 270 47 135
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_145.bmp
+43 109 336 522
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_146.bmp
+237 74 194 557
+43 31 199 603
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_149.bmp
+181 160 108 342
+160 167 150 339
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_154.bmp
+190 100 157 416
+118 150 59 149
+62 168 53 137
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_159.bmp
+324 151 81 221
+245 177 68 197
+228 175 83 198
+90 230 63 150
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_160.bmp
+171 144 92 259
+249 150 77 247
+303 139 105 256
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_162.bmp
+261 118 86 309
+173 141 85 297
+166 146 91 296
+49 120 86 259
+121 117 52 154
+489 127 85 223
+416 111 84 240
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_163.bmp
+289 90 121 303
+191 73 104 304
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_164.bmp
+254 119 109 241
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_166.bmp
+302 68 88 312
+236 78 75 294
+98 77 125 297
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_169.bmp
+308 111 140 289
+153 98 121 327
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_170.bmp
+31 53 215 310
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_178.bmp
+326 196 110 197
+241 192 92 230
+310 9 91 160
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_183.bmp
+268 97 125 339
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_184.bmp
+316 154 98 267
+198 147 103 273
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_186.bmp
+312 195 52 131
+244 207 50 119
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_187.bmp
+278 126 117 275
+173 122 109 288
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_188.bmp
+294 166 98 249
+203 182 93 219
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_189.bmp
+293 135 96 278
+378 129 100 299
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_190.bmp
+320 100 104 275
+423 213 82 161
+169 183 89 190
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_191.bmp
+100 140 76 189
+186 150 65 173
+344 136 65 168
+462 148 61 155
+543 133 77 196
+75 152 42 103
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_194.bmp
+159 134 108 285
+370 153 95 247
+454 154 86 268
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_195.bmp
+282 143 118 263
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_197.bmp
+98 148 115 331
+275 181 64 203
+381 172 72 202
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_204.bmp
+271 113 97 312
+360 130 75 285
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_210.bmp
+196 88 113 360
+320 105 111 329
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_216.bmp
+208 67 122 368
+411 69 120 378
+61 15 134 343
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_219.bmp
+254 122 127 319
+403 117 124 336
+145 133 73 192
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_221.bmp
+167 157 103 254
+412 161 98 241
+248 163 39 82
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_222.bmp
+242 169 63 195
+326 163 89 200
+116 166 63 164
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_223.bmp
+200 105 126 349
+365 77 129 353
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_225.bmp
+177 117 111 292
+337 86 126 335
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_228.bmp
+218 89 117 341
+354 88 111 337
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_229.bmp
+232 79 130 367
+361 48 130 393
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_235.bmp
+201 103 99 284
+277 125 81 241
+384 186 82 191
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_238.bmp
+261 183 77 175
+341 181 77 182
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_239.bmp
+106 68 157 402
+273 49 183 421
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_240.bmp
+282 131 96 321
+173 113 114 347
+58 118 119 275
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_242.bmp
+67 69 114 324
+303 187 79 207
+388 162 89 231
+490 172 90 222
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_243.bmp
+113 60 130 419
+244 95 129 384
+360 69 166 410
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_244.bmp
+137 62 165 417
+282 54 162 425
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_245.bmp
+30 27 137 452
+153 64 133 393
+264 52 111 377
+360 72 119 364
+448 74 138 403
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_247.bmp
+124 80 205 377
+298 55 192 351
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_249.bmp
+277 104 148 375
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_251.bmp
+303 126 117 339
+396 119 37 73
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_252.bmp
+255 148 109 222
+562 122 44 103
+614 131 25 91
+165 133 37 80
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_253.bmp
+264 172 89 195
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_255.bmp
+194 156 80 274
+264 141 90 275
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_257.bmp
+312 145 97 288
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_258.bmp
+332 141 118 338
+224 138 122 341
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_259.bmp
+271 168 95 243
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_261.bmp
+223 120 96 323
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_262.bmp
+185 148 91 255
+268 166 76 226
+318 152 82 270
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_267.bmp
+194 158 120 309
+342 159 102 284
+541 173 30 71
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_268.bmp
+366 127 118 306
+253 145 102 333
+473 120 57 163
+147 149 71 241
+196 121 69 217
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_270.bmp
+172 104 125 322
+270 115 80 243
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_271.bmp
+335 207 72 185
+485 194 39 136
+520 181 54 149
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_272.bmp
+322 193 104 278
+278 214 73 222
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_274.bmp
+212 105 96 264
+306 120 71 212
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_275.bmp
+228 112 106 285
+144 118 94 272
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_278.bmp
+150 64 154 400
+291 141 62 178
+356 154 39 82
+391 143 55 139
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_285.bmp
+352 139 109 335
+260 61 105 379
+174 94 88 277
+11 68 119 384
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_287.bmp
+196 186 89 173
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_288.bmp
+49 75 129 290
+382 193 130 283
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_293.bmp
+175 86 149 365
+376 105 51 124
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_302.bmp
+268 115 66 191
+481 106 47 125
+105 118 71 189
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_304.bmp
+296 169 81 190
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_306.bmp
+253 286 47 100
+295 303 51 110
+300 249 41 73
+246 140 36 76
+I:\TestOpenCV\Images\PedestrainBenchmark\person_02\person\person_307.bmp
+275 229 49 181
+312 229 48 174
+364 162 55 163
+
