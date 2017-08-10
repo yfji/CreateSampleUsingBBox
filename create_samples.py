@@ -203,6 +203,13 @@ def create_list(label_file, test_file, pos_root, neg_root):
     tf.close()
     lf.close()
 
+def create_hard_examples(hard_test_file, neg_root):
+    neg_samples=os.listdir(neg_root)
+    tf=open(hard_test_file, 'w')
+    for name in neg_samples:
+        name=os.path.join(neg_root, name)
+        tf.write(name+' -1\n')
+    tf.close()
 
 def show_some_db(roidb, max_size):
     num=25
@@ -228,11 +235,14 @@ if __name__=='__main__':
     label_path='people_bbox.txt'
     svm_label_file='person_label.txt'
     svm_test_file='test_label.txt'
+    svm_hard_file='hard_label.txt'
     cache_path='cache/people.pkl'
     pos_root='I:/TestOpenCV/Images/PedestrainBenchmark/samples/people'
     neg_root='I:/TestOpenCV/Images/PedestrainBenchmark/samples/nonpeople'
+    hard_root='I:/TestOpenCV/Images/PedestrainBenchmark/samples/hardexample/crop'
     roidb=create_roidb(label_path, cache_path, 1e-3)
     show_some_db(roidb, 150)
+    create_hard_examples(svm_hard_file, hard_root)
     #save_images(roidb, pos_root, neg_root)
     #save_neg_examples(neg_root)
-    create_list(svm_label_file, svm_test_file, pos_root, neg_root);
+    #create_list(svm_label_file, svm_test_file, pos_root, neg_root);
